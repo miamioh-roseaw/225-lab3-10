@@ -31,4 +31,3 @@ spec:
     targetPort: 5000
   selector:
     app: flaskweb
-  type: LoadBalancer
