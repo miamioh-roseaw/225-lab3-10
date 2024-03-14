@@ -31,3 +31,5 @@ spec:
     targetPort: 5000
   selector:
     app: flaskweb
+      type: LoadBalancer 
+      loadBalancerIP: 10.48.10.225 
