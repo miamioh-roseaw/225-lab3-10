@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: flaskweb
-          image: techwithtim0/flask-web-tutorial:latest
+          image: cithit/roseaw:latest
           ports:
             - containerPort: 5000
 ---
